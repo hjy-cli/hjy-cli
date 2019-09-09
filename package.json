@@ -1,13 +1,13 @@
 {
   "bin": {
-    "xr": "bin/xr",
-    "xr-add": "bin/xr-add",
-    "xr-delete": "bin/xr-delete",
-    "xr-list": "bin/xr-list",
-    "xr-init": "bin/xr-init"
+    "hjy": "bin/hjy",
+    "hjy-add": "bin/hjy-add",
+    "hjy-delete": "bin/hjy-delete",
+    "hjy-list": "bin/hjy-list",
+    "hjy-init": "bin/hjy-init"
   },
-  "name": "xr-cli",
-  "version": "1.0.0",
+  "name": "hjy-cli",
+  "version": "1.0.2",
   "description": "A simple CLI for creating your project",
   "main": "index.js",
   "scripts": {
